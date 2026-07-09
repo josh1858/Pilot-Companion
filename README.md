@@ -1,5 +1,5 @@
-# BA Euroflyer Pilot Companion X
+# BA Euroflyer Pilot Companion X2
 
-GitHub Pages-ready PWA. Upload the contents of this folder to the repository root.
+GitHub Pages-ready PWA. Upload the contents of this folder to the root of a GitHub repository and enable Pages.
 
-This is a planning aid and not a replacement for official company/EFB/OM-A data.
+This is a pilot briefing companion and visual planning aid only. Verify all operational information against official BA Euroflyer/company systems, OFP, NOTAMs, ATC, aircraft documents and regulatory/company FTL rules.
