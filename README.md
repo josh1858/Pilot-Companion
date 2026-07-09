@@ -1,13 +1,5 @@
-# BA Euroflyer Pilot Companion Pro
+# BA Euroflyer Pilot Companion X
 
-GitHub Pages-ready PWA.
+GitHub Pages-ready PWA. Upload the contents of this folder to the repository root.
 
-## Deploy on GitHub Pages
-1. Create a new GitHub repository.
-2. Upload the contents of this folder, not the zip file itself.
-3. Go to Settings → Pages.
-4. Set Source to `Deploy from a branch`.
-5. Choose branch `main` and folder `/root`.
-6. Save, then open the Pages URL once GitHub finishes deploying.
-
-The PWA install prompt only works from HTTPS, so use the GitHub Pages URL rather than opening index.html locally.
+This is a planning aid and not a replacement for official company/EFB/OM-A data.
