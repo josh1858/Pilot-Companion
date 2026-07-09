@@ -1,7 +1,10 @@
-# FlightIntel
+# FlightIntel X3
 
-BA Euroflyer pilot companion PWA prototype.
+Premium BA Euroflyer-focused pilot companion prototype.
 
-Upload the contents of this folder to GitHub Pages, Netlify, Vercel or any HTTPS host. Open `index.html` locally for testing, but PWA install features require HTTPS or localhost.
+## X3 changes
+- Rebuilt FTL/FDP panel with latest off-blocks before discretion, discretion start, selected discretion limit and visual FDP tape.
+- Rebuilt runway/wind visualisation as an SVG vector tool showing wind FROM direction relative to runway heading, plus headwind/tailwind and crosswind components.
+- Removed weak decorative taxi/terminal graphics and replaced them with an operational airport schematic and passenger/turnaround flow model.
 
-Not for operational use. Verify all information against official company, EFB, ATC, METAR/TAF, NOTAM and regulatory sources.
+This remains a personal decision-support prototype only. Always verify against official BA Euroflyer/company, EFB, ATC, METAR/TAF, NOTAM and regulatory sources.
