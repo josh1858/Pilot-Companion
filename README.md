@@ -1,5 +1,7 @@
-# BA Euroflyer Pilot Companion X2
+# FlightIntel
 
-GitHub Pages-ready PWA. Upload the contents of this folder to the root of a GitHub repository and enable Pages.
+BA Euroflyer pilot companion PWA prototype.
 
-This is a pilot briefing companion and visual planning aid only. Verify all operational information against official BA Euroflyer/company systems, OFP, NOTAMs, ATC, aircraft documents and regulatory/company FTL rules.
+Upload the contents of this folder to GitHub Pages, Netlify, Vercel or any HTTPS host. Open `index.html` locally for testing, but PWA install features require HTTPS or localhost.
+
+Not for operational use. Verify all information against official company, EFB, ATC, METAR/TAF, NOTAM and regulatory sources.
