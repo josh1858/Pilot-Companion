@@ -1,16 +1,30 @@
 {
-  "name":"FlightIntel X6",
-  "short_name":"FlightIntel",
-  "description":"BA Euroflyer intelligent operations and flight-planning companion",
-  "start_url":"./index.html",
-  "scope":"./",
-  "display":"standalone",
-  "orientation":"any",
-  "background_color":"#020611",
-  "theme_color":"#071a3c",
-  "categories":["productivity","travel","utilities"],
-  "icons":[
-    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  "name": "FlightIntel X7",
+  "short_name": "FlightIntel",
+  "description": "FlightIntel \u2014 BA Euroflyer multi-sector operations and flight-planning companion",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#030913",
+  "theme_color": "#071426",
+  "categories": [
+    "productivity",
+    "travel",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }

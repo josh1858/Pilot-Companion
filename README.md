@@ -1,4 +1,4 @@
-# FlightIntel X6
+# FlightIntel X7
 
 A GitHub Pages-ready progressive web app for BA Euroflyer planning workflows, redesigned in a premium red, white and blue glass cockpit theme.
 
@@ -27,3 +27,14 @@ The prototype uses Open-Meteo for model weather, Nager.Date for public-holiday c
 ## Safety
 
 FlightIntel is a planning prototype, not an approved EFB, company manual, operational flight plan, chart, METAR/TAF authority, NOTAM source or FTL authority. Verify every operational output against current BA Euroflyer manuals, roster systems, approved charts and authorised data sources.
+
+
+## X7 duty-planning upgrade
+
+- Comprehensive embedded BA Euroflyer short-haul network, including year-round and seasonal Gatwick destinations.
+- Multi-sector FDP planner with editable flight, taxi and turnaround times.
+- Backward latest-off-block calculations for every sector, including local time at the departure airport.
+- Planned extension validation by sectors and WOCL category.
+- Commander discretion reference calculated from the basic maximum FDP, not treated as a planning entitlement.
+
+All airport/runway data is reference-only and must be verified against current approved charts and company systems.
